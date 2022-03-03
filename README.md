@@ -14,8 +14,4 @@ Programação para mobile com React Native
 Estudo sobre UI/UX Design
 Crio interfaces no Figma
 
-##Linguagens e ferramentas**
-
-git
-
--->
+![image](https://user-images.githubusercontent.com/88103391/156600795-d5676b69-60e2-4403-9a37-64888875ccd4.png)
