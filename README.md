@@ -8,7 +8,8 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: @dyonispereira
 
-O que estudo e faço?
+### O que estudo e faço?
+
 Front-End : HTML, CSS e JavaScript
 Java para pequenos projetos
 Spring para aplicações Web
